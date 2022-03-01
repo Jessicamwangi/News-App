@@ -1,13 +1,13 @@
-# Password Locker
+# News App
 #### By Jessica Mwangi
 ## Description
 
-This is a project  which  manages and stores the login and signup credentials of a user for each account. it stores the passwords for the user if they don't want to generate a new one.
+This is a project  which  gives you the latest and trending news if you happen to miss the news broadcast and helps you to keep in touch with what's happening around the world ad explore topics which you are interested in.
 
 ## User Stories
 As a User you are able to :
 
-- Create an account for an application or login to the account for an application 
+- 
 
 - Store my existing account details for the various accounts you have.
 
