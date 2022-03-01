@@ -35,13 +35,23 @@ To Be able to view this, you need:
  
  To run this application do the following:
 
- - Clone the file and open it in terminal.
+- Creating the virtual environment
 
- - Open the user interface file and on your top left you should see a run button(this is there if you have installed the python extensions). Click it and you are good to go
+   $python3.6 -m venv --without-pip virtual
+   source virtual/bin/env
+   curl https://bootstrap.pypa.io/get-pip.py | python
+
+- Installing Flask and other Modules
+
+  $python3.6 -m pip install Flask
+  python3.6 -m pip install Flask-Bootstrap
+  python3.6 -m pip install Flask-Script
+
+- Generate an API key from News API
 
  - Do the following command to run the tests:
    
-   -python3 password_test.py
+   -python3.10 manage.py tests
 
 ## Technologies Used
 Technologies used in this application are :
