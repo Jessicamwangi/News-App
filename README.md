@@ -7,15 +7,15 @@ This is a project  which  gives you the latest and trending news if you happen t
 ## User Stories
 As a User you are able to :
 
-- 
+- See the trending news
 
-- Store my existing account details for the various accounts you have.
+- See various news sources
 
-- Generate a new password for an account that you haven't registered for and store it with the account name
+- See image and description from the news source
 
-- Delete stored accounts that you have no need for.
+- Browse through the different topics
 
-- Copy your credentials to the clipboard.
+- Read the full news article once you click it
 ## Setup/Installation Requirements
 To Be able to view this, you need:
 
