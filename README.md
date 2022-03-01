@@ -47,6 +47,8 @@ To Be able to view this, you need:
 Technologies used in this application are :
 
 - Python3.10.
+
+- Flask
 ### License
 Copyright (c) [2022] [Jessica Mwangi.]
 [MIT License](https://choosealicense.com/licenses/mit/)
