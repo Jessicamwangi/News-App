@@ -5,7 +5,13 @@
 .container-fluid {
 display: flex;
 }
-.col-9 {
+.Head {
 overflow-y: auto;
+
 height: 90vh; /* NEW */
+text-align: center;
+}
+body {
+  font-size: 80px;
+  font-family: 'Times New Roman';
 }
